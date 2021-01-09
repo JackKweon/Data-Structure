@@ -6,4 +6,7 @@ int main()
     cout << "Hello, World!" << endl;
     cout << "I'm so excited to learn new coding skills!"<<endl;
     return 0;
+    //expected value will be
+    //Hello, World!
+    //I'm so excited to learn enw coding skills!
 }
